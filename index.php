@@ -19,9 +19,13 @@
         </ul>
     </div>
 </div>
-
-<div>
-    Тут будет галерея
+<div id="gall">
+    <img src="img/1.jpeg" tabindex="0" border="3"/>
+    <img src="img/2.jpeg" tabindex="0" border="3"/>
+    <img src="img/3.jpeg" tabindex="0" border="3"/>
+    <img src="img/4.jpeg" tabindex="0" border="3" />
+    <img src="img/5.jpeg" tabindex="0" border="3"/>
+    <div></div>
 </div>
 </body>
 </html>
