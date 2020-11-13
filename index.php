@@ -23,6 +23,4 @@
 <div>
     Тут будет галерея
 </div>
-</body>
-</html>
-<?php
+<?php include 'footer.php'; ?>
