@@ -20,7 +20,29 @@
     </div>
     <div class="clean"></div>
 </div>
-
-
+<div class="wall">
+    <div class="headline">
+        <h2>Creative digital agency baxed on London</h2>
+    </div>
+    <div class="section">
+        <div class="div_text">
+            <h4>Design</h4>
+            <p>Creative digital agency for sleek and sophisticated solutions for mobile,
+                websites and software designs, lead by passionate and uber progressive
+                team that lives and breathes design. Creative digital agency for sleek and
+                sophisticated solutions for mobile, websites and software designs.</p>
+        </div>
+    </div>
+    <div class="section">
+        <div class="div_text">
+            <h4>Frontend & Backend Development</h4>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                Lorem Ipsum has been the industry's standard durnmy text ever since the
+                1500s, when an unknown printer took a galley of type and scrambled it to
+                make a type specimen book.</p>
+        </div>
+    </div>
+    <div class="clean"></div>
+</div>
 <?php include 'footer.php'?>
 
