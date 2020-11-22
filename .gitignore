@@ -1,8 +1,2 @@
-# Lines starting with `#` are comments.
-
-# Ignore directory called 'css'
-css
-# Ignore directory called 'js'
-js
 # Ignore directory called 'img'
 img
